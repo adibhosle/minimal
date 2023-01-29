@@ -1,122 +1,56 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+[Link to my GitHub Profile](https://github.com/adibhosle).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+* * *
+# Projects 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Stock Prediction using LSTM
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+LSTM (Long Short-Term Memory) is a type of Recurrent Neural Network (RNN) that is often used for stock price prediction due to its ability to handle time-series data and make predictions based on historical sequences.
 
-#### Header 4
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/adibhosle/Stock-Prediction-using-LSTM)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+<center><img src="images/stocks.jpg"/></center>
 
-##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
-###### Header 6
+## Face Feature Detection
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Face Feature Detection refers to the process of identifying and locating specific facial features, such as eyes, nose, mouth, and jawline, in an image or video. This is a crucial step in various computer vision tasks such as facial recognition, emotion recognition, and head pose estimation.
 
-### There's a horizontal rule below this.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/adibhosle/Face-Feature-Detection)
+
+<center><img src="images/face.jpg"/></center>
+
+
+## Deep Learning Image Recognition
+
+Deep Learning Image Recognition refers to the task of using deep neural networks to identify objects, scenes, and other features in digital images. This is a subfield of computer vision and machine learning that has gained significant attention due to recent advances in deep learning algorithms.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/adibhosle/Deep-Learning-Image-Recognition)
+
+<center><img src="images/recgo.jpeg"/></center>
+
+
+## Email Classification
+
+Email classification is the task of automatically categorizing emails into predefined categories or labels. This can be used to sort and prioritize emails, filter out spam, and categorize emails for other purposes.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/adibhosle/Email-Classification)
+
+<center><img src="images/email.png"/></center>
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
 ```
 The final element.
