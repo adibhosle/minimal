@@ -17,7 +17,7 @@ LSTM (Long Short-Term Memory) is a type of Recurrent Neural Network (RNN) that i
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/adibhosle/Stock-Prediction-using-LSTM)
 
-<center><img src="images/stocks.jpg"/></center>
+<center><img src="img/stocks.jpg"/></center>
 
 
 
@@ -27,7 +27,7 @@ Face Feature Detection refers to the process of identifying and locating specifi
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/adibhosle/Face-Feature-Detection)
 
-<center><img src="images/face.jpg"/></center>
+<center><img src="img/face.jpg"/></center>
 
 
 ## Deep Learning Image Recognition
@@ -36,7 +36,7 @@ Deep Learning Image Recognition refers to the task of using deep neural networks
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/adibhosle/Deep-Learning-Image-Recognition)
 
-<center><img src="images/recgo.jpeg"/></center>
+<center><img src="img/recgo.jpeg"/></center>
 
 
 ## Email Classification
@@ -45,7 +45,7 @@ Email classification is the task of automatically categorizing emails into prede
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/adibhosle/Email-Classification)
 
-<center><img src="images/email.png"/></center>
+<center><img src="img/email.png"/></center>
 
 * * *
 
